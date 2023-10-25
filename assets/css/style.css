@@ -494,7 +494,7 @@ section {
 .section-title h2::before,
 .section-title h2::after {
   content: "";
-  width: 200px;
+  width: 20px;
   height: 2px;
   border-radius: 20px;
   background: #0076f0;
@@ -1599,6 +1599,7 @@ section {
   .breadcrumbs ol li {
     display: inline-block;
   }
+
 }
 
 /*--------------------------------------------------------------
